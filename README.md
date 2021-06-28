@@ -10,4 +10,4 @@ Section 3 - Complete
 
 Section 4 - Complete
 
-Section 5 - Lessons 1 through 19 complete
+Section 5 - Complete
