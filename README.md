@@ -11,3 +11,5 @@ Section 3 - Complete
 Section 4 - Complete
 
 Section 5 - Complete
+
+Section 6 - Complete
