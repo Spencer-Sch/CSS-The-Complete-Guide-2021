@@ -33,3 +33,7 @@ Section 7: Understanding Background Images & Images
 Section 8: Sizes & Units
 
 - Complete
+
+Section 9: Working with JavaScript & CSS
+
+- Complete
