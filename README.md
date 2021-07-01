@@ -2,18 +2,34 @@
 
 ## I'm not showing code files out of respect for Max's intellectual property
 
-Section 1 - Complete
+Section 1: Gettgin Started
 
-Section 2 - Complete
+- Complete
 
-Section 3 - Complete
+Section 2: Diving Into the Basics of CSS
 
-Section 4 - Complete
+- Complete
 
-Section 5 - Complete
+Section 3: Diving Deeping into CSS
 
-Section 6 - Complete
+- Complete
 
-Section 7 - Complete
+Section 4: More on Selectors & CSS Features
 
-Section 8 - Lessons 1 through 6 Complete
+- Complete
+
+Section 5: Practice the Basics
+
+- Complete
+
+Section 6: Positioning Elements with CSS
+
+- Complete
+
+Section 7: Understanding Background Images & Images
+
+- Complete
+
+Section 8: Sizes & Units
+
+- Complete
