@@ -37,3 +37,7 @@ Section 8: Sizes & Units
 Section 9: Working with JavaScript & CSS
 
 - Complete
+
+Section 10: Making our Website Responsive
+
+- Complete
