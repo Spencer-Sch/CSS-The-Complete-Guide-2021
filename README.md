@@ -45,3 +45,7 @@ Section 10: Making our Website Responsive
 Section 11: Adding & Styling Forms
 
 - Complete
+
+Section 12: Working with Text and Fonts
+
+- Complete
