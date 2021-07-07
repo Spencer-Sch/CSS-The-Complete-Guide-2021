@@ -56,4 +56,4 @@ Section 13: Adding Flexbox to our Project
 
 Section 14: Using the CSS Grid
 
-- Lessons 1 through 23 complete
+- Complete
