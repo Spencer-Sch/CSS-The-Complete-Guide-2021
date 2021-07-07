@@ -53,3 +53,7 @@ Section 12: Working with Text and Fonts
 Section 13: Adding Flexbox to our Project
 
 - Complete
+
+Section 14: Using the CSS Grid
+
+- Lessons 1 through 23 complete
