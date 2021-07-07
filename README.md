@@ -52,4 +52,4 @@ Section 12: Working with Text and Fonts
 
 Section 13: Adding Flexbox to our Project
 
-- Lessons 1 through 14 complete
+- Complete
