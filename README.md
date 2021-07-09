@@ -65,3 +65,7 @@ Section 15: Transforming Elements with CSS Transforms
 Section 16: Transitions & Animations in CSS
 
 - Complete
+
+Section 17: Writing Future-Proof CSS Code
+
+- Complete
