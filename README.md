@@ -64,4 +64,4 @@ Section 15: Transforming Elements with CSS Transforms
 
 Section 16: Transitions & Animations in CSS
 
-- Lessons 1 through 9 complete
+- Complete
