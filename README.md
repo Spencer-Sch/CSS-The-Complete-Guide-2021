@@ -69,3 +69,8 @@ Section 16: Transitions & Animations in CSS
 Section 17: Writing Future-Proof CSS Code
 
 - Complete
+
+Section 18: Introducing Sass (Syntactically Awesome Style
+Sheets)
+
+- Lessons 1 through 10 complete
