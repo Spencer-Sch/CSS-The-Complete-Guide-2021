@@ -74,3 +74,7 @@ Section 18: Introducing Sass (Syntactically Awesome Style
 Sheets)
 
 - Complete
+
+Section 19: Course Roundup
+
+- Complete
