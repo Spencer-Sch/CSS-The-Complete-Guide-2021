@@ -73,4 +73,4 @@ Section 17: Writing Future-Proof CSS Code
 Section 18: Introducing Sass (Syntactically Awesome Style
 Sheets)
 
-- Lessons 1 through 10 complete
+- Complete
