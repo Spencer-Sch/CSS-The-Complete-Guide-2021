@@ -1,82 +1,95 @@
-# CSS - The Complete Guide 2021 by Maximilian Schwarzmuller
+# CSS - The Complete Guide
 
-## I'm not showing code files out of respect for Max's intellectual property
+#### by Maximilian Schwarzmuller
 
-Section 1: Gettgin Started
+[Udemy Link](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 
-- Complete
+---
 
-Section 2: Diving Into the Basics of CSS
+## Description
 
-- Complete
+Tracking my progress through the course.
 
-Section 3: Diving Deeping into CSS
+---
 
-- Complete
+## Course Sections
 
-Section 4: More on Selectors & CSS Features
+#### Section 1: Getting Started
 
-- Complete
+✅ Complete
 
-Section 5: Practice the Basics
+#### Section 2: Diving Into the Basics of CSS
 
-- Complete
+✅ Complete
 
-Section 6: Positioning Elements with CSS
+#### Section 3: Diving Deeping into CSS
 
-- Complete
+✅ Complete
 
-Section 7: Understanding Background Images & Images
+#### Section 4: More on Selectors & CSS Features
 
-- Complete
+✅ Complete
 
-Section 8: Sizes & Units
+#### Section 5: Practice the Basics
 
-- Complete
+✅ Complete
 
-Section 9: Working with JavaScript & CSS
+#### Section 6: Positioning Elements with CSS
 
-- Complete
+✅ Complete
 
-Section 10: Making our Website Responsive
+#### Section 7: Understanding Background Images & Images
 
-- Complete
+✅ Complete
 
-Section 11: Adding & Styling Forms
+#### Section 8: Sizes & Units
 
-- Complete
+✅ Complete
 
-Section 12: Working with Text and Fonts
+#### Section 9: Working with JavaScript & CSS
 
-- Complete
+✅ Complete
 
-Section 13: Adding Flexbox to our Project
+#### Section 10: Making our Website Responsive
 
-- Complete
+✅ Complete
 
-Section 14: Using the CSS Grid
+#### Section 11: Adding & Styling Forms
 
-- Complete
+✅ Complete
 
-Section 15: Transforming Elements with CSS Transforms
+#### Section 12: Working with Text and Fonts
 
-- Complete
+✅ Complete
 
-Section 16: Transitions & Animations in CSS
+#### Section 13: Adding Flexbox to our Project
 
-- Complete
+✅ Complete
 
-Section 17: Writing Future-Proof CSS Code
+#### Section 14: Using the CSS Grid
 
-- Complete
+✅ Complete
 
-Section 18: Introducing Sass (Syntactically Awesome Style
-Sheets)
+#### Section 15: Transforming Elements with CSS Transforms
 
-- Complete
+✅ Complete
 
-Section 19: Course Roundup
+#### Section 16: Transitions & Animations in CSS
 
-- Complete
+✅ Complete
 
-COURSE COMPLETE!
+#### Section 17: Writing Future-Proof CSS Code
+
+✅ Complete
+
+#### Section 18: Introducing Sass (Syntactically Awesome Style Sheets)
+
+✅ Complete
+
+#### Section 19: Course Roundup
+
+✅ Complete
+
+## Course Complete!
+
+[Back To The Top](#css---the-complete-guide)
